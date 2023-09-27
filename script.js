@@ -37,12 +37,12 @@ const hotelData = [
     rate: 5,
   }, 
   {
-    local: "Maringá",
+    local: "Mhezchikq",
     name: "Hotel Marino",
     src: "./assets/pexels-pixabay-164595.jpg",
     pricing: 450.0,
     rate: 4.3,
-  },
+  }, 
 ];
 
 const hotelListComponent = document.getElementById("card-list");
